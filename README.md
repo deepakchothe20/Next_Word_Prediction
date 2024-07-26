@@ -39,5 +39,5 @@ To set up the project on your local machine, follow these steps:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/Next_Word_Prediction.git
+   git clone https://github.com/deepakchothe20/Next_Word_Prediction.git
    cd Next_Word_Prediction
